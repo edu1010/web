@@ -1,0 +1,23 @@
+*{
+padding-left: 25px;
+padding-right: 25px;
+}
+.pagination {
+    position: relative;
+    margin-top: 70px;
+}
+.container a {
+    color:black;
+    background-color: transparent;
+    text-decoration: none;
+    padding-right:-20px;
+}
+p {
+     color: black;
+    background-color: transparent;
+    text-decoration: none;
+}
+#ejemplo {
+    font-family: fantasy;
+}
+.
